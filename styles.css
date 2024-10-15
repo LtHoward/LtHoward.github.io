@@ -10,3 +10,11 @@ h1{
 .about{
     background: #00b3d1;
 }
+.projects{ display:flex-wrap:wrap; }
+.project{
+    width: 30%;
+    margin: 10px;
+    padding: 20px 10px;
+    background: white;
+    border-radius: 25%
+}
